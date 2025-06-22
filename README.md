@@ -2,6 +2,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prithwish007/prithwish007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prithwish007/prithwish007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prithwish007/prithwish007/output/pacman-contribution-graph.svg">
+</picture>
+
+##
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prithwish007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="225" alt="stats graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prithwish007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -47,16 +55,12 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
+##
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prithwish007/prithwish007/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prithwish007/prithwish007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prithwish007/prithwish007/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
-<img src="https://github.com/NoE114/asset/blob/main/nextsvg%20(1).svg" width="100%" />
+<img src="https://github.com/prithwish007/prithwish007/blob/main/assets/gay(1).jpeg" width="100%" />
