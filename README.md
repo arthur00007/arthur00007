@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prithwish Kumar Das and I'm a Student at Techno Main SaltLake studying BCA.</h2>
+<h2 align="left">Hi 👋! My name is Prithwish Kumar Das, and I'm a Student at Techno Main SaltLake studying BCA. I am an aspiring coder.</h2>
 
 ###
 
