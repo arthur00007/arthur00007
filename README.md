@@ -16,10 +16,7 @@
 </div>
 
 <br>
-
-
-
-
+<br>
 
 <div align="center">
 <img src="https://count.getloli.com/@prithwish007?theme=original-new" />
@@ -29,6 +26,7 @@
 <img  height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
+<br>
 <br>
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a> <!--line-->
@@ -77,8 +75,8 @@
 
 <br>
 
-<img src="https://github.com/arthur00007/arthur00007/blob/main/assets/asthetic%20banner.gif" width="100%" />
+<img src="https://github.com/arthur00007/arthur00007/blob/main/assets/asthetic%20banner%202.gif" width="100%" />
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a> <!--line-->
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a> <!--line-->
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a> <!--line-->
+
