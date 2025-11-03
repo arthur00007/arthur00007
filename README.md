@@ -6,6 +6,9 @@
 <br>
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a> <!--line-->
+
+[![An image of @arthur00007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arthur00007)](https://holopin.io/@arthur00007)
+
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a> <!--line-->
 
 <br>
